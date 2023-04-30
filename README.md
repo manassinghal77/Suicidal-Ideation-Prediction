@@ -1,0 +1,2 @@
+# Suicidal-Ideation-Prediction
+DETECTING SUICIDAL IDEATION ON SOCIAL MEDIA
